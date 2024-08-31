@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Informatique",
+    "levels": [
+      {
+        "name": "Niveau 1 - Après-Midi",
+        "icsLink": "/ics/informatiqueN1A.ics",
+        "color": "#FF5733"
+      },
+      {
+        "name": "Niveau 1 - Soir",
+        "icsLink": "/ics/informatiqueN1S.ics",
+        "color": "#AA4499"
+      },
+      {
+        "name": "Niveau 2 - Soir",
+        "icsLink": "/ics/informatiqueN2S.ics",
+        "color": "#EE5130"
+      },
+      {
+        "name": "Niveau 3 - Soir",
+        "icsLink": "/ics/informatiqueN3S.ics",
+        "color": "#AA57BB"
+      }
+    ]
+  },
+  {
+    "name": "Comptabilité",
+    "levels": [
+      {
+        "name": "Niveau 1 - Après-Midi",
+        "icsLink": "/ics/comptaN1A.ics",
+        "color": "#33C3FA"
+      },
+      {
+        "name": "Niveau 2 - Après-Midi",
+        "icsLink": "/ics/comptaN2A.ics",
+        "color": "#33C3FA"
+      },
+      {
+        "name": "Niveau 3 - Après-Midi",
+        "icsLink": "/ics/comptaN3A.ics",
+        "color": "#33C3FA"
+      }
+    ]
+  },
+  {
+    "name": "Assistant de direction",
+    "levels": [
+      {
+        "name": "Niveau 1 - Après-Midi",
+        "icsLink": "/ics/AssDirN1A.ics",
+        "color": "#33C3FA"
+      },
+      {
+        "name": "Niveau 2 - Après-Midi",
+        "icsLink": "/ics/AssDirN2A.ics",
+        "color": "#33C3FA"
+      },
+      {
+        "name": "Niveau 3 - Après-Midi",
+        "icsLink": "/ics/AssDirN3A.ics",
+        "color": "#33C3FA"
+      }
+    ]
+  },
+  {
+    "name": "Technicien en programmation",
+    "levels": [
+      {
+        "name": "Technicien",
+        "icsLink": "/ics/TechnicienInfoNM.ics",
+        "color": "#33C3FA"
+      }
+    ]
+  },
+  {
+    "name": "Complément en fiscalité",
+    "levels": [
+      {
+        "name": "Complément",
+        "icsLink": "/ics/cmpFisc.ics",
+        "color": "#33C3FA"
+      }
+    ]
+  },
+  {
+    "name": "Langues en supérieur",
+    "levels": [
+      {
+        "name": "Langues",
+        "icsLink": "/ics/languesSup.ics",
+        "color": "#33C3FA"
+      }
+    ]
+  }
+]

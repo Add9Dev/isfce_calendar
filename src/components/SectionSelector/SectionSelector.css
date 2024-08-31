@@ -1,0 +1,35 @@
+.selector-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin: 20px 0;
+    justify-content: center;
+}
+
+.selector-container label {
+    font-weight: bold;
+    margin-right: 5px;
+    color: #333;
+}
+
+.selector-container select {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #f9f9f9;
+    color: #333;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.selector-container select:focus {
+    border-color: #007bff;
+}
+
+@media (max-width: 768px) {
+    .selector-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
