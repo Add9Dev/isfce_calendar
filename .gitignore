@@ -5,7 +5,10 @@
 /.pnp
 .pnp.js
 
-.idea/*
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+
 
 # testing
 /coverage
