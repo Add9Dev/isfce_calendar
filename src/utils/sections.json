@@ -1,6 +1,6 @@
 [
   {
-    "name": "Informatique",
+    "name": "Bac. Informatique",
     "levels": [
       {
         "name": "Niveau 1 - Après-Midi",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "name": "Comptabilité",
+    "name": "Bac. Comptabilité",
     "levels": [
       {
         "name": "Niveau 1 - Après-Midi",
@@ -45,7 +45,7 @@
     ]
   },
   {
-    "name": "Assistant de direction",
+    "name": "Bac. Assistant de direction",
     "levels": [
       {
         "name": "Niveau 1 - Après-Midi",
@@ -65,6 +65,31 @@
     ]
   },
   {
+    "name": "Bac. Marketing",
+    "levels": [
+      {
+        "name": "Niveau 1 - Après-Midi",
+        "icsLink": "/ics/MarketingN1A.ics",
+        "color": "#2980B9"
+      },
+      {
+        "name": "Niveau 1 - Soir",
+        "icsLink": "/ics/MarketingN1S.ics",
+        "color": "#2980B9"
+      },
+      {
+        "name": "Niveau 2 - Soir",
+        "icsLink": "/ics/MarketingN2S.ics",
+        "color": "#9B59B6"
+      },
+      {
+        "name": "Niveau 3 - Soir",
+        "icsLink": "/ics/MarketingN3S.ics",
+        "color": "#E67E22"
+      }
+    ]
+  },
+  {
     "name": "Technicien en programmation",
     "levels": [
       {
@@ -75,7 +100,7 @@
     ]
   },
   {
-    "name": "Complément en fiscalité",
+    "name": "Bac. Complément en fiscalité",
     "levels": [
       {
         "name": "Complément",
@@ -85,7 +110,7 @@
     ]
   },
   {
-    "name": "Langues en supérieur",
+    "name": "Bac. Langues en supérieur",
     "levels": [
       {
         "name": "Langues",
