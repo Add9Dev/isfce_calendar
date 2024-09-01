@@ -1,3 +1,35 @@
 .App {
   text-align: center;
 }
+/* src/components/CoursePlanner.css */
+.course-planner-container {
+  padding-bottom: 100px; /* Ajuster la marge inférieure pour éviter que le contenu soit caché par le footer */
+}
+
+.accordion-container {
+  /* Vos autres styles ici */
+  margin-bottom: 20px; /* Espacement supplémentaire pour le dernier élément avant le footer */
+}
+
+.section-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 1.5em;
+}
+
+.App {
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  color: #333;
+}
+
+.calendar-container {
+  flex: 1;
+}
+
