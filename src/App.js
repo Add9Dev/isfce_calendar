@@ -16,7 +16,7 @@ const App = () => {
 
     return (
         <div className="App">
-            <h1>Calendrier de l'ISFCE !!</h1>
+            <h1>Calendrier de l'ISFCE !</h1>
             <SectionSelector sections={sectionsData} onSelectSection={handleSelectSection} />
             <Calendar sectionCalendars={selectedCalendars} />
             <DownloadICSSection icsLink={selectedIcsLink} isDisabled={!selectedIcsLink} />
