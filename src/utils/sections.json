@@ -95,7 +95,57 @@
     ]
   },
   {
-    "name": "Cours de langue",
+    "name": "Cours de langue - Anglais",
+    "levels": [
+      {
+        "name": "Anglais - Niveau 1 - Matin",
+        "icsLink": "/ics/AnglaisN1M.ics",
+        "color": "#C0392B"
+      },
+      {
+        "name": "Anglais - Niveau 1 - Soir",
+        "icsLink": "/ics/AnglaisN1S.ics",
+        "color": "#F39C12"
+      },
+      {
+        "name": "Anglais - Niveau 2 - Matin",
+        "icsLink": "/ics/AnglaisN2M.ics",
+        "color": "#27AE60"
+      },
+      {
+        "name": "Anglais - Niveau 2 - Soir",
+        "icsLink": "/ics/AnglaisN2S.ics",
+        "color": "#8E44AD"
+      },
+      {
+        "name": "Anglais - Niveau 3 - Matin",
+        "icsLink": "/ics/AnglaisN3M.ics",
+        "color": "#3498DB"
+      },
+      {
+        "name": "Anglais - Niveau 3 - Soir",
+        "icsLink": "/ics/AnglaisN1S.ics",
+        "color": "#E74C3C"
+      },
+      {
+        "name": "Anglais - Niveau 4 - Matin",
+        "icsLink": "/ics/AnglaisN4M.ics",
+        "color": "#2ECC71"
+      },
+      {
+        "name": "Anglais - Niveau 4 - Soir",
+        "icsLink": "/ics/AnglaisN4S.ics",
+        "color": "#1ABC9C"
+      },
+      {
+        "name": "Anglais - Niveau 5 - Soir",
+        "icsLink": "/ics/AnglaisN5S.ics",
+        "color": "#F1C40F"
+      }
+    ]
+  },
+  {
+    "name": "Cours de langue - Français",
     "levels": [
       {
         "name": "Anglais - Niveau 1 - Matin",
