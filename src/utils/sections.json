@@ -188,11 +188,15 @@
         "color": "#1ABC9C"
       },
       {
+        "name": "Français - Niveau 5 - Matin",
+        "icsLink": "/ics/FrancaisN5M.ics",
+        "color": "#E1C00F"
+      },
+      {
         "name": "Français - Niveau 5 - Soir",
         "icsLink": "/ics/FrancaisN5S.ics",
         "color": "#E1C00F"
-      }
-    ,
+      },
       {
         "name": "Français - Niveau 6 - Matin",
         "icsLink": "/ics/FrancaisN6M.ics",
@@ -203,6 +207,41 @@
         "name": "Français - Niveau 6 - Soir",
         "icsLink": "/ics/FrancaisN6S.ics",
         "color": "#F9C40F"
+      }
+    ]
+  },
+  {
+    "name": "Cours de langue - Néerlandais",
+    "levels": [
+      {
+        "name": "Néerlandais - Niveau 1 - Matin",
+        "icsLink": "/ics/NeerlandaisN1M.ics",
+        "color": "#C0392B"
+      },
+      {
+        "name": "Néerlandais - Niveau 1 - Soir",
+        "icsLink": "/ics/NeerlandaisN1S.ics",
+        "color": "#F39C12"
+      },
+      {
+        "name": "Néerlandais - Niveau 2 - Matin",
+        "icsLink": "/ics/NeerlandaisN2M.ics",
+        "color": "#27AE60"
+      },
+      {
+        "name": "Néerlandais - Niveau 2 - Soir",
+        "icsLink": "/ics/NeerlandaisN2S.ics",
+        "color": "#8E44AD"
+      },
+      {
+        "name": "Néerlandais - Niveau 3 - Soir",
+        "icsLink": "/ics/NeerlandaisN1S.ics",
+        "color": "#E74C3C"
+      },
+      {
+        "name": "Néerlandais - Niveau 4 - Soir",
+        "icsLink": "/ics/NeerlandaisN4S.ics",
+        "color": "#1ABC9C"
       }
     ]
   }
