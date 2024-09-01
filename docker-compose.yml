@@ -9,7 +9,3 @@ services:
       - "80:80"
     environment:
       - NODE_ENV=production
-    volumes:
-      - .:/app
-    stdin_open: true
-    tty: true
