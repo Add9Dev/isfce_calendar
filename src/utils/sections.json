@@ -10,17 +10,17 @@
       {
         "name": "Niveau 1 - Soir",
         "icsLink": "/ics/informatiqueN1S.ics",
-        "color": "#AA4499"
+        "color": "#8E44AD"
       },
       {
         "name": "Niveau 2 - Soir",
         "icsLink": "/ics/informatiqueN2S.ics",
-        "color": "#EE5130"
+        "color": "#3498DB"
       },
       {
         "name": "Niveau 3 - Soir",
         "icsLink": "/ics/informatiqueN3S.ics",
-        "color": "#AA57BB"
+        "color": "#F1C40F"
       }
     ]
   },
@@ -30,17 +30,17 @@
       {
         "name": "Niveau 1 - Après-Midi",
         "icsLink": "/ics/comptaN1A.ics",
-        "color": "#33C3FA"
+        "color": "#E74C3C"
       },
       {
         "name": "Niveau 2 - Après-Midi",
         "icsLink": "/ics/comptaN2A.ics",
-        "color": "#33C3FA"
+        "color": "#16A085"
       },
       {
         "name": "Niveau 3 - Après-Midi",
         "icsLink": "/ics/comptaN3A.ics",
-        "color": "#33C3FA"
+        "color": "#2ECC71"
       }
     ]
   },
@@ -49,18 +49,18 @@
     "levels": [
       {
         "name": "Niveau 1 - Après-Midi",
-        "icsLink": "/ics/AssDirN1A.ics",
-        "color": "#33C3FA"
+        "icsLink": "/ics/AssiDirN1A.ics",
+        "color": "#2980B9"
       },
       {
         "name": "Niveau 2 - Après-Midi",
-        "icsLink": "/ics/AssDirN2A.ics",
-        "color": "#33C3FA"
+        "icsLink": "/ics/AssiDirN2A.ics",
+        "color": "#9B59B6"
       },
       {
         "name": "Niveau 3 - Après-Midi",
-        "icsLink": "/ics/AssDirN3A.ics",
-        "color": "#33C3FA"
+        "icsLink": "/ics/AssiDirN3A.ics",
+        "color": "#E67E22"
       }
     ]
   },
@@ -70,7 +70,7 @@
       {
         "name": "Technicien",
         "icsLink": "/ics/TechnicienInfoNM.ics",
-        "color": "#33C3FA"
+        "color": "#34495E"
       }
     ]
   },
@@ -80,7 +80,7 @@
       {
         "name": "Complément",
         "icsLink": "/ics/cmpFisc.ics",
-        "color": "#33C3FA"
+        "color": "#D35400"
       }
     ]
   },
@@ -90,7 +90,57 @@
       {
         "name": "Langues",
         "icsLink": "/ics/languesSup.ics",
-        "color": "#33C3FA"
+        "color": "#1ABC9C"
+      }
+    ]
+  },
+  {
+    "name": "Cours de langue",
+    "levels": [
+      {
+        "name": "Anglais - Niveau 1 - Matin",
+        "icsLink": "/ics/AnglaisN1M.ics",
+        "color": "#C0392B"
+      },
+      {
+        "name": "Anglais - Niveau 1 - Soir",
+        "icsLink": "/ics/AnglaisN1S.ics",
+        "color": "#F39C12"
+      },
+      {
+        "name": "Anglais - Niveau 2 - Matin",
+        "icsLink": "/ics/AnglaisN2M.ics",
+        "color": "#27AE60"
+      },
+      {
+        "name": "Anglais - Niveau 2 - Soir",
+        "icsLink": "/ics/AnglaisN2S.ics",
+        "color": "#8E44AD"
+      },
+      {
+        "name": "Anglais - Niveau 3 - Matin",
+        "icsLink": "/ics/AnglaisN3M.ics",
+        "color": "#3498DB"
+      },
+      {
+        "name": "Anglais - Niveau 3 - Soir",
+        "icsLink": "/ics/AnglaisN1S.ics",
+        "color": "#E74C3C"
+      },
+      {
+        "name": "Anglais - Niveau 4 - Matin",
+        "icsLink": "/ics/AnglaisN4M.ics",
+        "color": "#2ECC71"
+      },
+      {
+        "name": "Anglais - Niveau 4 - Soir",
+        "icsLink": "/ics/AnglaisN4S.ics",
+        "color": "#1ABC9C"
+      },
+      {
+        "name": "Anglais - Niveau 5 - Soir",
+        "icsLink": "/ics/AnglaisN5S.ics",
+        "color": "#F1C40F"
       }
     ]
   }

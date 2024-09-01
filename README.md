@@ -2,7 +2,7 @@
 
 # ISFCE_CALENDAR - ISFCE-CALENDRIER
 
-Refont du visuel des horaires de l'ISFCE et mis en ligne sur [horaires.add9.dev](https://horaires.add9.dev/) pour une utilisation plus simple et rapide.
+Refonte du visuel des horaires de l'ISFCE et mis en ligne sur [horaires.add9.dev](https://horaires.add9.dev/) pour une utilisation plus simple et rapide.
 
 ## Installation
 
@@ -36,9 +36,9 @@ les chemins vers les .ics (fichiers iCal) sont définis dans ce fichier.
 
 Note : Les fichiers iCal n'ont pas besoin d'être présent localement, ils peuvent être hébergés sur un serveur externe, le path mentionné dans le fichier sections.json doit être accessible.
 
-Le composant Calendar chargé de l'affichage des horaires va lire le fichier sections.json pour afficher les horaires.
-Le composant DownloadICSSection va permettre de télécharger les fichiers iCal pour les importer dans un calendrier externe.
-Le composant SectionSelector va permettre à l'utilisateur de filtrer les horaires par section et par niveau et horaire de cours.
+- Le composant Calendar chargé de l'affichage des horaires va lire le fichier sections.json pour afficher les horaires.
+- Le composant DownloadICSSection va permettre de télécharger les fichiers iCal pour les importer dans un calendrier externe.
+- Le composant SectionSelector va permettre à l'utilisateur de filtrer les horaires par section et par niveau et horaire de cours.
 ```json
 [
   {
