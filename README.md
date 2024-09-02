@@ -30,9 +30,11 @@ Nous utilisons FullCalendar pour l'affichage des horaires ainsi que des iCal pou
 
 ## Fonctionnement
 
-L'affichage des horaires fonctionne via des fichiers iCal qui sont importés dans le calendrier. Ces fichiers sont générés par manuellement.
-Ensuite un fichier sections.json est généré pour permettre de filtrer les horaires par section et par niveau et horaire de cours. (Matin/Après-midi/Soir)
-les chemins vers les .ics (fichiers iCal) sont définis dans ce fichier.
+L'affichage des horaires fonctionne via des fichiers iCal qui sont importés dans le calendrier. Ces fichiers sont
+générés manuellement.
+Ensuite un fichier sections.json est généré pour permettre de filtrer les horaires par section et par niveau et horaire
+de cours (Matin/Après-midi/Soir).
+Les chemins vers les .ics (fichiers iCal) sont définis dans ce fichier.
 
 Note : Les fichiers iCal n'ont pas besoin d'être présent localement, ils peuvent être hébergés sur un serveur externe, le path mentionné dans le fichier sections.json doit être accessible.
 
